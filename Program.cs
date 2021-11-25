@@ -19,6 +19,11 @@ using System;
         {
             Console.WriteLine("Cheksum for {0} is {1}", source, calculateChecksum(source));
         }
+     
+        static void showHash(object source)
+        {  
+            Console.WriteLine("Hash for {0} is: {1:x}", source, source.GetHashCode());
+        }
 
         static void Main (String[] args)
         {
@@ -26,11 +31,10 @@ using System;
             showCheksum("world Hello");
             showCheksum("Hemmm world");
 
-            Console.ReadKey();
-        }
+            showHash("Hello world");
+            showHash("world Hello");
+            showHash("Hemmm world");
 
-        static void showHash(object source)
-        {
-            Console.WriteLine("Hash for {0} is: {1, x}", source, source.GetHashCode());
+            Console.ReadKey();
         }
    }
