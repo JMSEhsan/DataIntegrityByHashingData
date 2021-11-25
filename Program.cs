@@ -1,5 +1,6 @@
-﻿//Data Integrity by Hashing Data
-
+﻿/*Data Integrity by Hashing Data
+Programing in C# - Exam Ref. 70-483 by Rob Miles, Microsoft, 2019
+*/
 
 // See https://aka.ms/new-console-template for more information
 
