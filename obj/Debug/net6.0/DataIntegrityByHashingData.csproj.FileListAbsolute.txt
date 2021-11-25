@@ -1,0 +1,15 @@
+C:\Users\se_ja\Desktop\DataIntegrityByHashingData\bin\Debug\net6.0\DataIntegrityByHashingData.exe
+C:\Users\se_ja\Desktop\DataIntegrityByHashingData\bin\Debug\net6.0\DataIntegrityByHashingData.deps.json
+C:\Users\se_ja\Desktop\DataIntegrityByHashingData\bin\Debug\net6.0\DataIntegrityByHashingData.runtimeconfig.json
+C:\Users\se_ja\Desktop\DataIntegrityByHashingData\bin\Debug\net6.0\DataIntegrityByHashingData.dll
+C:\Users\se_ja\Desktop\DataIntegrityByHashingData\bin\Debug\net6.0\ref\DataIntegrityByHashingData.dll
+C:\Users\se_ja\Desktop\DataIntegrityByHashingData\bin\Debug\net6.0\DataIntegrityByHashingData.pdb
+C:\Users\se_ja\Desktop\DataIntegrityByHashingData\obj\Debug\net6.0\DataIntegrityByHashingData.csproj.AssemblyReference.cache
+C:\Users\se_ja\Desktop\DataIntegrityByHashingData\obj\Debug\net6.0\DataIntegrityByHashingData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\se_ja\Desktop\DataIntegrityByHashingData\obj\Debug\net6.0\DataIntegrityByHashingData.AssemblyInfoInputs.cache
+C:\Users\se_ja\Desktop\DataIntegrityByHashingData\obj\Debug\net6.0\DataIntegrityByHashingData.AssemblyInfo.cs
+C:\Users\se_ja\Desktop\DataIntegrityByHashingData\obj\Debug\net6.0\DataIntegrityByHashingData.csproj.CoreCompileInputs.cache
+C:\Users\se_ja\Desktop\DataIntegrityByHashingData\obj\Debug\net6.0\DataIntegrityByHashingData.dll
+C:\Users\se_ja\Desktop\DataIntegrityByHashingData\obj\Debug\net6.0\ref\DataIntegrityByHashingData.dll
+C:\Users\se_ja\Desktop\DataIntegrityByHashingData\obj\Debug\net6.0\DataIntegrityByHashingData.pdb
+C:\Users\se_ja\Desktop\DataIntegrityByHashingData\obj\Debug\net6.0\DataIntegrityByHashingData.genruntimeconfig.cache
